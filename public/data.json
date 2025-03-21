@@ -1,0 +1,359 @@
+{
+    "quizzes": [
+        {
+            "title": "Finance",
+            "icon": "./assets/images/icon-html.svg",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "👋 Select your gender",
+                    "options": [
+                        "👨 Male",
+                        "👩 Female",
+                        "🧑 Other"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 2,
+                    "question": "⏳ Select your age",
+                    "options": [
+                        "18-24",
+                        "25-34",
+                        "35-44",
+                        "45-54",
+                        "55 & older"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 3,
+                    "question": "🤔 What would you like to achieve with us?",
+                    "options": [
+                        "💳 Break the cycle of debt",
+                        "🛍️ Stop overspending",
+                        "🌱 Grow your savings steadily",
+                        "🚫 Quit bad financial habits",
+                        "📚 Learn about personal finance",
+                        "🏡 Save for the future",
+                        "🎯 Achieve a financial goal",
+                        "🔒 Gain financial security"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 4,
+                    "question": "💭 How do you feel about your money today?",
+                    "options": [
+                        "😟 I’m constantly stressed and am just trying to keep up",
+                        "😕 I’m tired of the ups and downs, like I’m getting nowhere",
+                        "😐 I’m managing okay, but it’s still a lot to handle.",
+                        "🙂 I’m seeing improvements, and things seem manageable",
+                        "😊 I’m feeling quite steady, but there’s still room to grow",
+                        "😄 I feel stable and confident about where I’m headed."
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 5,
+                    "question": "We got your back",
+                    "options": [
+                        "Achieve your goals smoothly and confidently with our interactive, hands-on program. Simple steps, real results—let’s create your best financial future together!"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 6,
+                    "question": "💪 What financial skills would you like to improve, first of all?",
+                    "options": [
+                        "💡 Making smarter money decisions every day",
+                        "🧘‍♂️ Handling unexpected financial challenges with confidence",
+                        "🏡 Planning ahead for big expenses and future goals",
+                        "💰 Saving consistently without giving up what you enjoy",
+                        "📊 Balancing spending and saving effectively",
+                        "🚀 Finding ways to build and grow your wealth",
+                        "🔎 Learning to handle day-to-day finances with less stress"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 7,
+                    "question": "⏰ When do you like to learn?",
+                    "options": [
+                        "☕ After morning coffee",
+                        "🍕 During the lunch break",
+                        "🛏 Before going to sleep",
+                        "🎲 Any spare time"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 8,
+                    "question": "📚 How do you feel about learning in general?",
+                    "options": [
+                        "😍 I love it—learning excites and motivates me",
+                        "🙂 I enjoy it when it’s useful and engaging",
+                        "😟 It feels like a chore most of the time",
+                        "😩 I avoid it whenever I can"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 9,
+                    "question": "Develop your financial skills and have fun",
+                    "options": [
+                        "This course is nothing like reading long books or watching hours-long videos. Divided into bite-sized pieces, it gives you direction, inspiration, and practical tools to start a completely new financial chapter—all while enjoying the process."
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 10,
+                    "question": "💸 How do everyday financial tasks like paying bills or tracking spending make you feel?",
+                    "options": [
+                        "😟 Overwhelmed by bills and expenses, often avoiding them",
+                        "😬 Stressed about payments but still trying to manage",
+                        "🤔 Unsure about how to manage daily finances correctly",
+                        "😌 Calm with tasks like paying bills—it's just a routine",
+                        "😊 Confident, having a solid system for bills and expenses"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 11,
+                    "question": "🎉 How do you feel about great deals and discounts?",
+                    "options": [
+                        "😍 I absolutely love great deals and never miss a chance to grab one.",
+                        "😉 I’m tempted by discounts but try to stay mindful about spending.",
+                        "😐 I’m indifferent to deals and don’t pay much attention to them.",
+                        "😟 I avoid great deals and discounts because they often lead to overspending."
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 12,
+                    "question": "💭 When you think about your financial future, how do you feel?",
+                    "options": [
+                        "😟 Stressed. I feel like it’s too late or too hard to change things",
+                        "😨 Scared. There's too much uncertainty and anxiety",
+                        "😶 Detached. I just avoid thinking about it ",
+                        "😊 Confident. I’m sure I’ll make progress and figure things out",
+                        "💪 Hopeful. I believe things will get better with the right steps",
+                        "🤔 Curious. I’m eager to learn and take my next steps"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 13,
+                    "question": "✨ Are there things you enjoy about your financial life?",
+                    "options": [
+                        "😩 No, it’s overwhelming and hard to manage",
+                        "😟 Not really—it feels like more stress than anything else",
+                        "😐 Not sure—I haven’t thought much about it",
+                        "🙂 Sometimes—small wins make me happy",
+                        "😊 I try to enjoy it, but it’s not easy",
+                        "😍 Yes, I love feeling in control and reaching my goals"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 14,
+                    "question": "You've gained a lot of experience by now",
+                    "options": [
+                        "Today, it’s time to gather all those valuable lessons—and step confidently into a new chapter of your financial journey. With every step forward, you’re creating the life you’ve dreamed of. Let’s make it happen!"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 15,
+                    "question": "💪 Do you believe that trying new approaches and learning from mistakes leads to financial success?",
+                    "options": [
+                        "👍 Strongly agree",
+                        "👍 Agree",
+                        "🤷 Not sure",
+                        "👎 Disagree",
+                        "👎 Strongly disagree"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 16,
+                    "question": "🤔 Do you agree with this statement? 'Sometimes I need a little push to keep going. Otherwise, I might stop when things feel overwhelming.'",
+                    "options": [
+                        "👍 Strongly agree",
+                        "👍 Agree",
+                        "🤷 Not sure",
+                        "👎 Disagree",
+                        "👎 Strongly disagree"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 17,
+                    "question": "Build practical skills",
+                    "options": [
+                        "This isn’t just a “financial literacy” course. Every step you take—no matter how small—lays the foundation for your upcoming financial success. And we’re here to make sure you enjoy every moment of the journey."
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 18,
+                    "question": "🔍 Where do you usually look for answers when you don’t understand something?",
+                    "options": [
+                        "📸 Social media",
+                        "🇬 Google",
+                        "  ▶️   YouTube",
+                        "🌀 ChatGPT",
+                        "📚 Books",
+                        "💬 Internet forums",
+                        "📜 Academic articles",
+                        "🔮 Other",
+                        "👥 Friends or colleagues"
+                    ],
+                    "multiChoice": true
+                },
+                {
+                    "id": 19,
+                    "question": "👋️ Excellent choice! What should we call you?",
+                    "options": [
+                        
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 20,
+                    "question": "📝 Which way is the most effective for you to learn new things?",
+                    "options": [
+                        "🥊 Starting with practice and learning along the way",
+                        "📖 First theory, then practice",
+                        "😉 Depends on the subject"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 21,
+                    "question": "🎛 Do you consider yourself a multitasker?",
+                    "options": [
+                        "👍 Strongly agree",
+                        "👍 Agree",
+                        "🤷 Not sure",
+                        "👎 Disagree",
+                        "👎 Strongly disagree"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 22,
+                    "question": "Learn smarter, not harder",
+                    "options": [
+                        "In just 10 minutes, you’ll uncover simple, practical steps to make managing your finances less stressful and more empowering—clear, actionable, and designed to fit where you are today."
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 23,
+                    "question": "💭 How well do you know your monthly expenses?",
+                    "options": [
+                        "🧾 I track every detail and know where all my money goes",
+                        "🧐 I know my monthly expenses roughly, but not in detail",
+                        "🤷‍♂️ I often wonder where my money disappears each month",
+                        "😴 I don’t think about my monthly expenses at all"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 24,
+                    "question": "🛍 How often do you think about whether a purchase is necessary or not?",
+                    "options": [
+                        "✅ Always. I evaluate every expense carefully.",
+                        "😊 I think mostly about making a major purchase.",
+                        "🤔 I mostly buy what feels right at the moment.",
+                        "🤩 If I want something that I can afford, I just go and buy it. "
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 25,
+                    "question": "💳 How would you describe your debt situation?",
+                    "options": [
+                        "💪 I’m debt-free—it’s not a problem for me",
+                        "😊 It’s under control. I have a debt paying plan and stick to it",
+                        "🤯 I have debt, but I'm doing my best to figure it out",
+                        "🔍 I don’t really know—I avoid looking at it",
+                        "😟 It’s overwhelming—I feel stuck in debt"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 26,
+                    "question": "🛠 If an emergency came up today, how would you manage?",
+                    "options": [
+                        "💪 I have enough savings to cover any emergency expenses",
+                        "🤷‍♀️ I could manage an emergency, but it would be tight",
+                        "💰 I would need to borrow money or delay payments",
+                        "😟 I just can’t handle an emergency if it came up today",
+                        "🔄 I’m trying to save for emergencies but I'm not there yet"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 27,
+                    "question": "34% of all Americans have $0 in savings",
+                    "options": [
+                        "Also, the majority has significant debt. So, if you are in this situation, you're not alone. The good news is, there's always a way to get out of debt and start building the stress-free future you truly deserve. Let's do it together!"
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 28,
+                    "question": "🛠 Do you have specific reasons to start improving your finances right now?",
+                    "options": [
+                        "🏡 I want to save for a big goal, like buying a home or car",
+                        "🛫 I want more travel and experiences without stress",
+                        "🎓 I need to handle student loans or plan for further education",
+                        "👪 I want to provide a better future for my family",
+                        "💼 I’m focused on building wealth or preparing for retirement",
+                        "🔄 My situation is unique, but I know it’s time for a change"                  
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 29,
+                    "question": "🌦 How would you describe your current financial situation?",
+                    "options": [
+                        "⛈ Overwhelming—I’m struggling to keep up.",
+                        "🌧 Uncertain—I often feel lost or unsure.",
+                        "🌤 Okay—I’m managing but not growing much.",
+                        "🌞 Stable and improving—I’m making progress.",
+                        "🌈 Hopeful—I’m quite good and improving over time."
+                    ],
+                    "multiChoice": false
+                },
+                {
+                    "id": 30,
+                    "question": "🚀 If you could change one thing about your finances today, what would it be?",
+                    "options": [
+                        "💳 Eliminate debt.",
+                        "💰 Save more for the future.",
+                        "🤔 Understand my financial habits better.",
+                        "🔄 Learn how to set and stick to financial goals."
+                    ],
+                    "multiChoice": false
+                }
+            ],
+            "experiences": [
+                {
+                    "id": 0,
+                    "question":"Are you motivated to change your financial life for the better? "
+                },
+                {
+                    "id": 1,
+                    "question":"Can you dedicate at least 5 minutes a day to start a totally new financial chapter and build the life you've envisioned?"
+                },
+                {
+                    "id": 2,
+                    "question":"Are you ready to start improving your financial skills today? "
+                }
+            ]
+        }
+    ]
+}
